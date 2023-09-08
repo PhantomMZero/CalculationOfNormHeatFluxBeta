@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>icons/hay-bale-icon-style-vector.jpg</file>
+    </qresource>
+</RCC>
